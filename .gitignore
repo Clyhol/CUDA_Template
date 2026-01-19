@@ -1,0 +1,26 @@
+# Build directories
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Binaries and libraries
+*.o
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+
+# CUDA
+*.ptx
+*.cubin
